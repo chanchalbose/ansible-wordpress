@@ -1,6 +1,6 @@
 galaxy_info:
   author: chanchalbose
-  description: Wordpress
+  description: Automate Wordpress deployment in CentOS, Redhat or Ubuntu
   company: "prodevans.com"
   license: "MIT"
 
